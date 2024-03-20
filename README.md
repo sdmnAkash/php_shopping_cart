@@ -2,4 +2,4 @@
 
 1. Download the .zip from code
 2. Unzip & copy the folder to "xmapp/htdocs" folder 
-3. take the database file to import to phpmysql.
+3. import the database file "producttd.sql" to phpmysql.
