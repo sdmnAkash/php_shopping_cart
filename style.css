@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+  height: auto;
+  background: radial-gradient(white 30%, rgb(151, 157, 245) 70%);
+}
+
+.fa-star,
+.fa-star-half {
+  color: orangered;
+}
+
+.price-details h6 {
+  padding: 3% 2%;
+}
